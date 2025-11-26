@@ -1,7 +1,5 @@
 # Lab3 Attack Lab 实验报告
 
-计算机科学与技术学院 $\space$ 杨添燚 $\space$ 24300240173
-
 ## 一、实验目的
 
 1.通过完成attacklab中的各个关卡，了解栈溢出的几种攻击，以及如何写出更安全的代码；
@@ -278,3 +276,10 @@ fa 18 40 00 00 00 00 00
 通过这次`AttackLab`，我对汇编、栈都有了更深的了解，掌握了缓冲区的一些攻击方法，以及ROP攻击的原理与实践。
 
 在实验过程中遇到了种种困难，我善用搜索，并解决了其中的大部分。剩下一下遗留的问题在对应位置的`P.S.`中给出。
+
+## 五、参考的资料
+
+> [CS:APP配套实验3：Attack Lab笔记](https://zhuanlan.zhihu.com/p/28476993)  
+[更适合北大宝宝体质的 ICS 辅助学习资料](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU/blob/main/03-Attack-Lab/README.md)  
+[CSAPP-Labs-Attack Lab 笔记](https://github.com/Exely/CSAPP-Labs/blob/master/notes/attack.md)  
+[Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)](http://csapp.cs.cmu.edu/)
