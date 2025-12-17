@@ -81,7 +81,7 @@ typedef struct {
 
 使用`python3 driver-py3.py`对两个程序都做测试，结果截图如下：
 
- ![result](.\result.png)
+ ![result](result.png)
 
 Part A 得分：27 / 27
 
